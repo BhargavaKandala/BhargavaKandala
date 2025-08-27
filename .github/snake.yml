@@ -21,5 +21,6 @@ jobs:
       - name: Push generated snake to output branch
         uses: EndBug/add-and-commit@v9
         with:
-          branch: output
-          message: "Generated snake animation"
+            github_user_name: BhargavaKandala
+            outputs: dist/snake.svg
+
