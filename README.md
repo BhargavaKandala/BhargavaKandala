@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BhargavaKandala/BhargavaKandala/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BhargavaKandala/BhargavaKandala/output/snake.svg" alt="Snake animation" />
 
 ###
