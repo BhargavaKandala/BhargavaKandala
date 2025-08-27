@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # ✅ allow pushing to the repo
+  contents: write
 
 jobs:
   generate:
@@ -19,10 +19,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: BhargavaKandala
-          outputs: dist/snake.svg
+          outputs: snake.svg   # ✅ directly to root of output branch
 
       - name: Push to output branch
         uses: EndBug/add-and-commit@v9
         with:
-          branch: output
+          branch: output       # ✅ pushes only to output branch
           message: "Generated snake animation"
