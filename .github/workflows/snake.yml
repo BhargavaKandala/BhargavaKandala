@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # ✅ allow pushing to the repo
+
 jobs:
   generate:
     runs-on: ubuntu-latest
