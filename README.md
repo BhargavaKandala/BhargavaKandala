@@ -48,3 +48,5 @@
 <img src="https://raw.githubusercontent.com/BhargavaKandala/BhargavaKandala/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![github-snake](https://github.com/BhargavaKandala/BhargavaKandala/blob/output/github-snake.svg)
