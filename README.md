@@ -48,6 +48,4 @@
 </div>
 
 <br clear="both">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BhargavaKandala/BhargavaKandala/output/dist/github-snake.svg" alt="Snake animation" />
-</p>
+<img src="https://raw.githubusercontent.com/BhargavaKandala/BhargavaKandala/output/dist/snake.svg" alt="Snake animation" />
