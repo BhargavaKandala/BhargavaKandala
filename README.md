@@ -49,4 +49,3 @@
 
 ###
 
-![github-snake](https://github.com/BhargavaKandala/BhargavaKandala/blob/output/github-snake.svg)
